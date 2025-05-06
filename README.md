@@ -1,6 +1,6 @@
 ### Hi there 👋, Glad to have you here!
-#### Nice to meet you — I’m Michael.
-![Nice to meet you — I’m Michael.](/resources/preview.png)
+#### I’m Michael — nice to meet you.
+![](/resources/preview.png)
 
 From time to time, I create something — you're welcome to explore it.
 
@@ -24,8 +24,8 @@ Team Leading, Mentoring, Code Reviews, Task Planning, Agile Practices
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neuroborus)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-hasso/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/neuroborus/)
 [<img src='/resources/dark-avatar-full.png' alt='website' height='40'>](https://hasso.tech)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/neuroborus/) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=neuroborus)](https://github.com/ryo-ma/github-profile-trophy) -->
 
