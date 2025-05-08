@@ -6,7 +6,7 @@ From time to time, I create something — you're welcome to explore it.
 
 ### Skills
 **Backend Development**   
-Node.js (TypeScript, NestJS, Express), PostgreSQL, Redis, WebSockets, REST, GraphQL  
+Node.js (TypeScript, NestJS, Express), SQL (PostgreSQL, MySQL), NoSql (Redis, Mongo, custom), REST, GraphQL  
 
 **System Design & Architecture**  
 Solution Architecture, Distributed Systems, Microservices, Event-Driven Architecture, API Design  
@@ -31,7 +31,7 @@ Team Leading, Mentoring, Code Reviews, Task Planning, Agile Practices
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuroborus)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neuroborus&show_icons=true&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neuroborus&show_icons=true&count_private=true) -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=neuroborus)  
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=neuroborus) -->
 
