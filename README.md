@@ -1,6 +1,6 @@
 ### Hi there 👋, Glad to have you here!
 #### I’m Michael — nice to meet you.
-![](/resources/preview.png)
+![](/profile/preview.png)
 
 From time to time, I create something — you're welcome to explore it.
 
@@ -23,10 +23,14 @@ From time to time, I create something — you're welcome to explore it.
 - [`monitor-brightness-helper`](https://github.com/neuroborus/monitor-brightness-helper) — GNOME/Wayland monitor brightness control via gnome-gamma-tool (great for hotkeys/encoder wheels).
 - [`ubuntu-lens`](https://github.com/neuroborus/ubuntu-lens) — “Google Lens”-like helper: screenshot a region → OCR → copy recognized text to clipboard.
 
+#### Templates
+- [`axum-template`](https://github.com/neuroborus/axum-template) — Rust Axum starter template.
+- [`nest-template`](https://github.com/neuroborus/nest-template) — NestJS starter template.
+
 
 ### Skills
 **Backend Development**   
-Node.js (TypeScript, NestJS, Express), SQL (PostgreSQL, MySQL), NoSql (Redis, Mongo, custom), REST, GraphQL  
+Node.js (TypeScript, NestJS, Express), Rust (Axum), SQL (PostgreSQL, MySQL), NoSql (Redis, Mongo, custom), REST, GraphQL  
 
 **System Design & Architecture**  
 Solution Architecture, Distributed Systems, Microservices, Event-Driven Architecture, API Design  
@@ -42,15 +46,16 @@ Team Leading, Mentoring, Code Reviews, Task Planning, Agile Practices
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neuroborus)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-hasso/)
-[<img src='/resources/dark-avatar-full.png' alt='website' height='40'>](https://hasso.tech)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/neuroborus/) -->
+[<img src='profile/icons/github.svg' alt='github' height='40'>](https://github.com/neuroborus)
+[<img src='profile/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-hasso/)
+[<img src='profile/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/neuroborus/)
+[<img src='profile/icons/site.svg' alt='website' height='40'>](https://hasso.tech)
 
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/neuroborus/) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=neuroborus)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuroborus)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](./profile/metrics/languages.svg)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuroborus)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neuroborus&show_icons=true&count_private=true) -->
-
 <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=neuroborus) -->
