@@ -25,7 +25,8 @@ From time to time, I create something — you're welcome to explore it.
 
 #### Templates
 - [`axum-template`](https://github.com/neuroborus/axum-template) — Rust Axum starter template.
-- [`nest-template`](https://github.com/neuroborus/nest-template) — NestJS starter template.
+- [`nest-siwe-ddd-template`](https://github.com/neuroborus/nest-siwe-ddd-template) — *newest*. NestJS starter template with DDD-style layering and SIWE (EIP-4361) authentication.
+- [`nest-template`](https://github.com/neuroborus/nest-template) — NestJS starter template with a feature-driven module structure.
 
 
 ### Skills
