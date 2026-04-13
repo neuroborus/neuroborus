@@ -21,6 +21,7 @@ From time to time, I create something — you're welcome to explore it.
 #### Linux Desktop Utilities
 - [`easy-app-registrar`](https://github.com/neuroborus/easy-app-registrar) — Qt/C++ GUI that generates .desktop launchers to register any executable/script as a Start Menu app on Ubuntu (user-wide or system-wide), with optional resource copying for portability.
 - [`monitor-brightness-helper`](https://github.com/neuroborus/monitor-brightness-helper) — GNOME/KDE Wayland monitor brightness control via gnome-gamma-tool (great for hotkeys/encoder wheels).
+- [`ethernet-link-recover`](https://github.com/neuroborus/ethernet-link-recover) — Recovery script and issue tracker for intermittent **`NO-CARRIER`** / link loss on Linux with the Motorcomm **YT6801** Ethernet controller (driver reload + NetworkManager).
 - [`ubuntu-lens`](https://github.com/neuroborus/ubuntu-lens) — GNOME/KDE “Google Lens”-like helper: screenshot a region → OCR → copy recognized text to clipboard.
 
 #### Templates
