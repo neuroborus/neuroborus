@@ -18,6 +18,9 @@ From time to time, I create something — you're welcome to explore it.
 - [`crontab-vpn`](https://github.com/neuroborus/crontab-vpn) — Scheduled OpenVPN on/off scripts for Ubuntu (with example crontab entries).
 - [`repo-migrate-helper`](https://github.com/neuroborus/repo-migrate-helper) — Checklist + helper script for migrating a repo to a new org/repo while changing the committer/origin.
 
+#### Developer Tools
+- [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
+
 #### Linux Desktop Utilities
 - [`easy-app-registrar`](https://github.com/neuroborus/easy-app-registrar) — Qt/C++ GUI that generates .desktop launchers to register any executable/script as a Start Menu app on Ubuntu (user-wide or system-wide), with optional resource copying for portability.
 - [`monitor-brightness-helper`](https://github.com/neuroborus/monitor-brightness-helper) — GNOME/KDE Wayland monitor brightness control via gnome-gamma-tool (great for hotkeys/encoder wheels).
