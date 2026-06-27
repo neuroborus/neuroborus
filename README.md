@@ -18,9 +18,6 @@ From time to time, I create something — you're welcome to explore it.
 - [`crontab-vpn`](https://github.com/neuroborus/crontab-vpn) — Scheduled OpenVPN on/off scripts for Ubuntu (with example crontab entries).
 - [`repo-migrate-helper`](https://github.com/neuroborus/repo-migrate-helper) — Checklist + helper script for migrating a repo to a new org/repo while changing the committer/origin.
 
-#### Developer Tools
-- [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
-
 #### Linux Desktop Utilities
 - [`easy-app-registrar`](https://github.com/neuroborus/easy-app-registrar) — Qt/C++ GUI that generates .desktop launchers to register any executable/script as a Start Menu app on Ubuntu (user-wide or system-wide), with optional resource copying for portability.
 - [`monitor-brightness-helper`](https://github.com/neuroborus/monitor-brightness-helper) — GNOME/KDE Wayland monitor brightness control via gnome-gamma-tool (great for hotkeys/encoder wheels).
@@ -32,6 +29,10 @@ From time to time, I create something — you're welcome to explore it.
 - [`nest-siwe-ddd-template`](https://github.com/neuroborus/nest-siwe-ddd-template) — *newest*. NestJS starter template with DDD-style layering and SIWE (EIP-4361) authentication.
 - [`nest-template`](https://github.com/neuroborus/nest-template) — NestJS starter template with a feature-driven module structure.
 
+#### Others
+- [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
+- [`vocabulary-bot`](https://github.com/neuroborus/vocabulary-bot) — Go Telegram vocabulary assistant that imports words from PocketBook notes and Google Sheets, merges them in MongoDB, and sends spaced-repetition review cards.
+- [`ward-pulse`](https://github.com/neuroborus/ward-pulse) — Local-first AI usage dashboard for provider spend, limits, credits, and activity across Android, Wear OS, and watch-face surfaces.
 
 ### Skills
 **Backend Development**   
