@@ -13,6 +13,7 @@ From time to time, I create something — you're welcome to explore it.
 - [`message-signer-viem`](https://github.com/neuroborus/message-signer-viem) — Minimal CLI to sign arbitrary messages with a private key via viem (offline, no RPC required).
 
 #### Infra & Automation Scripts
+- [`agent-runner`](https://github.com/neuroborus/agent-runner) — Local CLI and STDIO MCP server for resumable coding pipelines with Codex CLI and Claude Code.
 - [`cloudflared-alias`](https://github.com/neuroborus/cloudflared-alias) — One-command helper to switch the local port in Cloudflare Tunnel config and start the tunnel.
 - [`check-oracle-shape`](https://github.com/neuroborus/check-oracle-shape) — OCI script that notifies you when a desired compute shape becomes available.
 - [`crontab-vpn`](https://github.com/neuroborus/crontab-vpn) — Scheduled OpenVPN on/off scripts for Ubuntu (with example crontab entries).
@@ -36,7 +37,7 @@ From time to time, I create something — you're welcome to explore it.
 
 ### Skills
 **Backend Development**   
-Node.js (TypeScript, NestJS, Express), Rust (Axum), SQL (PostgreSQL, MySQL), NoSql (Redis, Mongo, custom), REST, GraphQL  
+Node.js (TypeScript, NestJS, Express), Rust (Axum), SQL (PostgreSQL, MySQL, ClickHouse), NoSql (Redis, Mongo, custom), NATS, REST, GraphQL  
 
 **System Design & Architecture**  
 Solution Architecture, Distributed Systems, Microservices, Event-Driven Architecture, API Design  
