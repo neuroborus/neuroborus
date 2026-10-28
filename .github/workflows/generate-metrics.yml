@@ -20,12 +20,6 @@ jobs:
         with:
           node-version: 24
 
-      - name: Install dependencies (if needed)
-        run: |
-          if [ -f package.json ]; then
-            npm ci
-          fi
-
       - name: Generate metrics
         env:
           GITHUB_TOKEN: ${{ github.token }}
