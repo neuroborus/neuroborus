@@ -1,10 +1,10 @@
 ## Metrics Generator — HOWTO
 
 ### What this is
-This repo contains GitHub Actions workflows and Node.js scripts that generate profile assets:
+This repo contains a GitHub Actions workflow and dependency-free Node.js scripts that generate profile assets:
 - A monochrome SVG chart of top programming languages across all repositories for the GitHub user `neuroborus`.
 - A set of monochrome social icon cards (GitHub, LinkedIn, LeetCode, site).
-Outputs are deterministic and committed only when they actually change.
+Outputs are deterministic; the workflow commits the metrics chart only when it actually changes.
 
 ### How it works
 - The workflow runs daily at 00:00 UTC (and can be started manually).
@@ -16,7 +16,7 @@ Outputs are deterministic and committed only when they actually change.
   - Sorts by bytes (desc), then name (asc), and keeps top 10.
   - Renders `profile/metrics/languages.svg` in monochrome with deterministic layout.
 - The workflow commits and pushes only if `git diff --quiet` detects changes.
-- The social icons script `scripts/generate-social-icons.mjs`:
+- The social icons script `scripts/generate-social-icons.mjs` is not part of the workflow; run it manually when icons change:
   - Pulls SVGs from Simple Icons (and wraps a local PNG for the site icon).
   - Renders square monochrome cards to `profile/icons/*.svg`.
 
@@ -26,7 +26,7 @@ Outputs are deterministic and committed only when they actually change.
   - Workflow permission: `contents: write` to allow commits.
 - Local usage (optional):
   - Node.js 24+.
-  - A GitHub token with repo read access set in `GITHUB_TOKEN`.
+  - A GitHub token with repo read access set in `GITHUB_TOKEN` (metrics script only).
   - Network access to `cdn.jsdelivr.net` for icon sources.
 
 ### Run locally
@@ -43,6 +43,7 @@ ls -la profile/metrics/languages.svg
 ```
 
 ### Run social icons generator
+Not run by CI and needs no token; commit the regenerated icons yourself.
 ```bash
 node scripts/generate-social-icons.mjs
 ls -la profile/icons/*.svg
@@ -57,8 +58,8 @@ ls -la profile/icons/*.svg
 ### Change detection
 The workflow uses `git diff --quiet` after generation:
 - No diff → exits successfully with no commit.
-- Diff found → `git add`, `git commit`, `git push`.
+- Diff found → `git add profile/metrics/languages.svg`, `git commit`, `git push`.
 
 ### Notes
 - The SVG is deterministic (no timestamps/random IDs).
-- Only monochrome colors are used (white background, near-black bars/text, light-gray border).
+- Only monochrome colors are used (white background, near-black bars, text and border).
