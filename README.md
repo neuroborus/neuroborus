@@ -6,6 +6,13 @@ From time to time, I create something — you're welcome to explore it.
 
 ### Navigation
 
+#### Agentic
+- [`agent-runner`](https://github.com/neuroborus/agent-runner) — Local CLI and STDIO MCP server for resumable coding pipelines with Codex CLI and Claude Code.
+- [`ward-pulse`](https://github.com/neuroborus/ward-pulse) — Local-first AI usage dashboard for provider spend, limits, credits, and activity across Android, Wear OS, and watch-face surfaces.
+- [`cloudflared-alias`](https://github.com/neuroborus/cloudflared-alias) — Cloudflare Tunnel with a local Caddy gate: share a local port or selected static files via a keyed URL, from the CLI or through an MCP server for agents.
+- [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
+- [`codex-retry`](https://github.com/neuroborus/codex-retry) — Tcl/Expect wrapper that keeps the native Codex TUI and automatically retries model overloads and transient transport failures.
+
 #### EVM & Smart-Contract Tooling (Web3 Development)
 - [`ethers-tools`](https://github.com/neuroborus/ethers-tools) — Zero-dependency TS/JS library on top of ethers.js for contract interaction and Multicall3 batching.
 - [`events-fetcher`](https://github.com/neuroborus/events-fetcher) — Script to fetch/parse contract events and export them to a file.
@@ -13,8 +20,6 @@ From time to time, I create something — you're welcome to explore it.
 - [`message-signer-viem`](https://github.com/neuroborus/message-signer-viem) — Minimal CLI to sign arbitrary messages with a private key via viem (offline, no RPC required).
 
 #### Infra & Automation Scripts
-- [`agent-runner`](https://github.com/neuroborus/agent-runner) — Local CLI and STDIO MCP server for resumable coding pipelines with Codex CLI and Claude Code.
-- [`cloudflared-alias`](https://github.com/neuroborus/cloudflared-alias) — One-command helper to switch the local port in Cloudflare Tunnel config and start the tunnel.
 - [`check-oracle-shape`](https://github.com/neuroborus/check-oracle-shape) — OCI script that notifies you when a desired compute shape becomes available.
 - [`crontab-vpn`](https://github.com/neuroborus/crontab-vpn) — Scheduled OpenVPN on/off scripts for Ubuntu (with example crontab entries).
 - [`repo-migrate-helper`](https://github.com/neuroborus/repo-migrate-helper) — Checklist + helper script for migrating a repo to a new org/repo while changing the committer/origin.
@@ -31,9 +36,7 @@ From time to time, I create something — you're welcome to explore it.
 - [`nest-template`](https://github.com/neuroborus/nest-template) — NestJS starter template with a feature-driven module structure.
 
 #### Others
-- [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
 - [`vocabulary-bot`](https://github.com/neuroborus/vocabulary-bot) — Go Telegram vocabulary assistant that imports words from PocketBook notes and Google Sheets, merges them in MongoDB, and sends spaced-repetition review cards.
-- [`ward-pulse`](https://github.com/neuroborus/ward-pulse) — Local-first AI usage dashboard for provider spend, limits, credits, and activity across Android, Wear OS, and watch-face surfaces.
 
 ### Skills
 **Backend Development**   
