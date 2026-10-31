@@ -8,6 +8,7 @@ From time to time, I create something — you're welcome to explore it.
 
 #### Agentic
 - [`agent-runner`](https://github.com/neuroborus/agent-runner) — Local CLI and STDIO MCP server for resumable coding pipelines with Codex CLI and Claude Code.
+- [`telegram-mcp-relay`](https://github.com/neuroborus/telegram-mcp-relay) — Lightweight Rust MCP relay connecting multiple AI agent sessions to one Telegram bot, with replies routed back to the originating session.
 - [`ward-pulse`](https://github.com/neuroborus/ward-pulse) — Local-first AI usage dashboard for provider spend, limits, credits, and activity across Android, Wear OS, and watch-face surfaces.
 - [`cloudflared-alias`](https://github.com/neuroborus/cloudflared-alias) — Cloudflare Tunnel with a local Caddy gate: share a local port or selected static files via a keyed URL, from the CLI or through an MCP server for agents.
 - [`zed-local-history`](https://github.com/neuroborus/zed-local-history) — Filesystem-first local history for Zed: native CLI, MCP server for agents, and a safe snapshot/restore history manager with Markdown browsing.
