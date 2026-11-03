@@ -40,20 +40,29 @@ From time to time, I create something — you're welcome to explore it.
 - [`vocabulary-bot`](https://github.com/neuroborus/vocabulary-bot) — Go Telegram vocabulary assistant that imports words from PocketBook notes and Google Sheets, merges them in MongoDB, and sends spaced-repetition review cards.
 
 ### Skills
-**Backend Development**   
-Node.js (TypeScript, NestJS, Express), Rust (Axum), SQL (PostgreSQL, MySQL, ClickHouse), NoSql (Redis, Mongo, custom), NATS, REST, GraphQL  
+**Backend Development**  
+Node.js (TypeScript, NestJS, Express), Rust (Axum), Go, Java (Spring), REST, GraphQL, OpenAPI  
+
+**Data & Messaging**  
+PostgreSQL, MySQL, SQLite, ClickHouse, Redis, MongoDB, custom file-based storage, NATS (JetStream), BullMQ, RabbitMQ  
 
 **System Design & Architecture**  
 Solution Architecture, Distributed Systems, Microservices, Event-Driven Architecture, API Design  
 
-**Web3 / Blockchain**   
-EVM, Solidity, ethers, viem/wagmi, subgraphs, smart contract integrations  
+**Agentic Engineering**  
+Building and running agent factories, orchestrating agents and subagents, writing skills, MCP servers, Codex CLI, Claude Code  
 
-**AI & Data**   
-Prompt Engineering, API-based LLMs (OpenAI, Claude), TensorFlow.js, ONNX, embeddings, image generation pipelines  
+**AI & Data**  
+LLM-backed backend services in production (OpenAI, Claude), embeddings  
 
-**Leadership & Management**   
-Team Leading, Mentoring, Code Reviews, Task Planning, Agile Practices
+**Web3 / Blockchain**  
+EVM, Solidity, ethers, viem/wagmi, The Graph, Ponder, Dune, Multicall, Foundry/Anvil, smart contract integrations  
+
+**Infrastructure & DevOps**  
+Docker, Kubernetes, GitHub Actions, AWS (EC2, Lambda, S3), Vault  
+
+**Leadership & Management**  
+Team Leading, Architecture Planning, Mentoring, Code Reviews, Task Breakdown, Product Scope & Priorities  
 
 
 
