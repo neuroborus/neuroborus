@@ -15,52 +15,52 @@
     <g>
       <text x="126" y="86" text-anchor="end">JavaScript</text>
       <rect class="bar" x="154" y="72" width="512" height="18" rx="3" />
-      <text x="756" y="86" text-anchor="end">48.72%</text>
+      <text x="756" y="86" text-anchor="end">53.59%</text>
     </g>
     <g>
       <text x="126" y="116" text-anchor="end">Rust</text>
-      <rect class="bar" x="154" y="102" width="150.36" height="18" rx="3" />
-      <text x="756" y="116" text-anchor="end">14.31%</text>
+      <rect class="bar" x="154" y="102" width="123.72" height="18" rx="3" />
+      <text x="756" y="116" text-anchor="end">12.95%</text>
     </g>
     <g>
       <text x="126" y="146" text-anchor="end">Dart</text>
-      <rect class="bar" x="154" y="132" width="144.06" height="18" rx="3" />
-      <text x="756" y="146" text-anchor="end">13.71%</text>
+      <rect class="bar" x="154" y="132" width="118.53" height="18" rx="3" />
+      <text x="756" y="146" text-anchor="end">12.41%</text>
     </g>
     <g>
       <text x="126" y="176" text-anchor="end">Python</text>
-      <rect class="bar" x="154" y="162" width="69.99" height="18" rx="3" />
-      <text x="756" y="176" text-anchor="end">6.66%</text>
+      <rect class="bar" x="154" y="162" width="57.59" height="18" rx="3" />
+      <text x="756" y="176" text-anchor="end">6.03%</text>
     </g>
     <g>
       <text x="126" y="206" text-anchor="end">Kotlin</text>
-      <rect class="bar" x="154" y="192" width="64.71" height="18" rx="3" />
-      <text x="756" y="206" text-anchor="end">6.16%</text>
+      <rect class="bar" x="154" y="192" width="53.25" height="18" rx="3" />
+      <text x="756" y="206" text-anchor="end">5.57%</text>
     </g>
     <g>
       <text x="126" y="236" text-anchor="end">Tcl</text>
-      <rect class="bar" x="154" y="222" width="32.88" height="18" rx="3" />
-      <text x="756" y="236" text-anchor="end">3.13%</text>
+      <rect class="bar" x="154" y="222" width="27.06" height="18" rx="3" />
+      <text x="756" y="236" text-anchor="end">2.83%</text>
     </g>
     <g>
       <text x="126" y="266" text-anchor="end">Go</text>
-      <rect class="bar" x="154" y="252" width="26.62" height="18" rx="3" />
-      <text x="756" y="266" text-anchor="end">2.53%</text>
+      <rect class="bar" x="154" y="252" width="21.9" height="18" rx="3" />
+      <text x="756" y="266" text-anchor="end">2.29%</text>
     </g>
     <g>
       <text x="126" y="296" text-anchor="end">TypeScript</text>
-      <rect class="bar" x="154" y="282" width="18.98" height="18" rx="3" />
-      <text x="756" y="296" text-anchor="end">1.81%</text>
+      <rect class="bar" x="154" y="282" width="15.62" height="18" rx="3" />
+      <text x="756" y="296" text-anchor="end">1.63%</text>
     </g>
     <g>
       <text x="126" y="326" text-anchor="end">Java</text>
-      <rect class="bar" x="154" y="312" width="15.83" height="18" rx="3" />
-      <text x="756" y="326" text-anchor="end">1.51%</text>
+      <rect class="bar" x="154" y="312" width="13.02" height="18" rx="3" />
+      <text x="756" y="326" text-anchor="end">1.36%</text>
     </g>
     <g>
       <text x="126" y="356" text-anchor="end">Shell</text>
-      <rect class="bar" x="154" y="342" width="15.45" height="18" rx="3" />
-      <text x="756" y="356" text-anchor="end">1.47%</text>
+      <rect class="bar" x="154" y="342" width="12.71" height="18" rx="3" />
+      <text x="756" y="356" text-anchor="end">1.33%</text>
     </g>
 
   <text class="watermark" x="400" y="394" text-anchor="middle">hasso.tech</text>
